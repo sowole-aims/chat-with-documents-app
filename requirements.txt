@@ -1,0 +1,5 @@
+openai<1
+langchain
+pinecone-client
+python-dotenv
+tiktoken
