@@ -1,6 +1,7 @@
-openai<1
+openai
 langchain
+docx2txt
+pypdf
+streamlit
 chromadb
-python-dotenv
 tiktoken
-
