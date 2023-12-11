@@ -2,5 +2,5 @@
 __pycache__/
 __pycache__/app.cpython-39.pyc/
 __pycache__/utils.cpython-39.pyc/
-.env
+.env/
 files/
